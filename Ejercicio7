@@ -1,0 +1,14 @@
+var promedios = [
+    {alumno:'', cal1:5.5, cal2:8.6, cal3:10},
+    {alumno:'', cal1:5.5, cal2:8.6, cal3:10},
+    {alumno:'', cal1:5.5, cal2:8.6, cal3:10},
+    {alumno:'', cal1:5.5, cal2:8.6, cal3:10},
+    {alumno:'', cal1:5.5, cal2:8.6, cal3:10},
+    {alumno:'', cal1:5.5, cal2:8.6, cal3:10},
+    {alumno:'', cal1:5.5, cal2:8.6, cal3:10},
+    {alumno:'', cal1:5.5, cal2:8.6, cal3:10},
+    {alumno:'', cal1:5.5, cal2:8.6, cal3:10},
+    {alumno:'', cal1:5.5, cal2:8.6, cal3:10},
+    {alumno:'', cal1:5.5, cal2:8.6, cal3:10},
+    {alumno:'', cal1:5.5, cal2:8.6, cal3:10}
+]
