@@ -12,3 +12,9 @@ var promedios = [
     {alumno:'Alumno11', cal1:5.0, cal2:10, cal3:8.4},
     {alumno:'Alumno12', cal1:9.0, cal2:4.6, cal3:7.5}
 ]
+function Calcular() { 
+    var vr1 = document.getElementById('cal1').value; 
+    var vr2 = document.getElementById('cal2').value; 
+    var vr3 = document.getElementById('cal3').value; 
+    var p = (parseFloat(vr1)+parseFloat(vr2)+parseFloat(vr3))/3; document.getElementById('Promedio') = p; 
+    }
