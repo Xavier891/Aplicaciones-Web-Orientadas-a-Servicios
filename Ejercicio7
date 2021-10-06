@@ -1,14 +1,14 @@
 var promedios = [
-    {alumno:'', cal1:5.5, cal2:8.6, cal3:10},
-    {alumno:'', cal1:5.5, cal2:8.6, cal3:10},
-    {alumno:'', cal1:5.5, cal2:8.6, cal3:10},
-    {alumno:'', cal1:5.5, cal2:8.6, cal3:10},
-    {alumno:'', cal1:5.5, cal2:8.6, cal3:10},
-    {alumno:'', cal1:5.5, cal2:8.6, cal3:10},
-    {alumno:'', cal1:5.5, cal2:8.6, cal3:10},
-    {alumno:'', cal1:5.5, cal2:8.6, cal3:10},
-    {alumno:'', cal1:5.5, cal2:8.6, cal3:10},
-    {alumno:'', cal1:5.5, cal2:8.6, cal3:10},
-    {alumno:'', cal1:5.5, cal2:8.6, cal3:10},
-    {alumno:'', cal1:5.5, cal2:8.6, cal3:10}
+    {alumno:'Alumno1', cal1:5.5, cal2:8.6, cal3:10},
+    {alumno:'Alumno2', cal1:8.0, cal2:5.5, cal3:10},
+    {alumno:'Alumno3', cal1:9.0, cal2:4.1, cal3:7.8},
+    {alumno:'Alumno4', cal1:10, cal2:2.2, cal3:8.1},
+    {alumno:'Alumno5', cal1:7.0, cal2:9.2, cal3:7.1},
+    {alumno:'Alumno6', cal1:9.0, cal2:4.0, cal3:6.0},
+    {alumno:'Alumno7', cal1:6.5, cal2:5.0, cal3:5.0},
+    {alumno:'Alumno8', cal1:4.0, cal2:7.0, cal3:4.0},
+    {alumno:'Alumno9', cal1:8.0, cal2:8.0, cal3:9.0},
+    {alumno:'Alumno10', cal1:10, cal2:9.0, cal3:9.2},
+    {alumno:'Alumno11', cal1:5.0, cal2:10, cal3:8.4},
+    {alumno:'Alumno12', cal1:9.0, cal2:4.6, cal3:7.5}
 ]
